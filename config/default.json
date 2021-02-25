@@ -1,0 +1,6 @@
+{
+  "port": 9001,
+  "protocol": "http",
+  "JWT_key": "hdUis%19cDj$5dkjcdF!c8G8",
+  "expiry_time": 2
+}
